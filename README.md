@@ -50,7 +50,7 @@ So, this project isn't adds functions that compiles like inline assembly.
 
 * `DL` - 8bit variable 8
 
-<img src="./registers.png">
+<img src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/repo_projects/learn_asm_with_c/table.png">
 
 ## Commands
 
